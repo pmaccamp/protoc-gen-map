@@ -1,4 +1,4 @@
-module github.com/jackskj/protoc-gen-map
+module github.com/pmaccamp/protoc-gen-map
 
 go 1.13
 
